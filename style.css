@@ -258,3 +258,52 @@ dl {
     font-weight: bold; }
     #navigation .link > a:hover {
       background-color: rgba(0, 0, 0, 0.1); }
+
+.box-content{
+    background-color: #435161 !important;
+    color:white;
+}
+*{
+   /* color: #243b55; */
+}
+.box-header{
+    background-color: #435161 !important;
+    color:white;
+}
+a{
+color: white !important;
+}
+
+p{
+    color: white !important;
+}
+
+h4{
+    color: white !important;
+}
+
+span{
+    color: white !important;
+}
+
+.box-news{
+    background-color: #435161 !important;
+    color:white;
+}
+
+#footer{
+ background-color: #24292e;   
+}
+
+.thumbnail-loves{
+    color: white !important;
+    color: white !important;
+}
+
+#donor{
+ background-color: #24292e;   
+}
+
+#navigation{
+    background-color: #1b1d23;
+}
