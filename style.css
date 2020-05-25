@@ -307,3 +307,11 @@ span{
 #navigation{
     background-color: #1b1d23;
 }
+
+ul.dropdown.production.open{
+ background-color: #1b1d23;    
+}
+
+#navigation{
+ background-color: #1b1d23;   
+}
