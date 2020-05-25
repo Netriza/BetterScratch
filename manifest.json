@@ -11,4 +11,7 @@
     "matches": ["https://scratch.mit.edu/*"]
   }]
  
+      "page_action": {
+      "default_popup": "popup.html"
+    },
 }
