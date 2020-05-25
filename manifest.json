@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "BetterScratch",
+  "version": "1.0.0",
+  "description": "Extentions for Scratch",
+ 
+  "content_scripts": [{
+    "css": ["normalize.min.css"],
+    "matches": ["https://scratch.mit.edu/*"]
+  }]
+ 
+}
