@@ -4,7 +4,7 @@
   "name": "BetterScratch",
   "version": "1.0.1",
   "description": "Extentions for Scratch",
-  "matches": [""]
+  "matches": [""],
  
   "content_scripts": [{
     "css": ["style.css"],
