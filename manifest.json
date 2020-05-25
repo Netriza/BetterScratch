@@ -4,7 +4,7 @@
   "name": "BetterScratch",
   "version": "1.0.1",
   "description": "Extentions for Scratch",
-  "matches": ["scratch.mit.edu/*"],
+  "matches": ["scratch.mit.edu/"],
  
   "content_scripts": [{
     "css": ["style.css"],
