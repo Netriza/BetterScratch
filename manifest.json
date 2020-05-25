@@ -6,7 +6,8 @@
   "description": "Extentions for Scratch",
  
   "content_scripts": [{
-    "css": ["normalize.min.css"],
+    "css": ["style.css"],
+        "js": ["app.js"],
     "matches": ["https://scratch.mit.edu/*"]
   }]
  
