@@ -309,9 +309,22 @@ span{
 }
 
 ul.dropdown.production.open{
- background-color: #1b1d23;    
+ background-color: #1b1d23 !important;    
 }
 
 #navigation{
- background-color: #1b1d23;   
+ background-color: #1b1d23 !important;   
+}
+
+div.box.news{
+    background-color: #435161 !important;
+}
+div#navigation{
+    background-color: #21252b !important;
+}
+div#footer{
+    background-color: #21252b !important;
+}
+div#donor{
+    background-color: #21252b !important;
 }
